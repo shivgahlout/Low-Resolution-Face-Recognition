@@ -20,5 +20,5 @@ The procedure for the experiments is as follows:
 ## Results
 
 1. The accuracy obtained on HR images is 95.2%
-2. The accuracy obtained on LR images is 95.1%
+2. The accuracy obtained on LR images (by a factor of 3) is 95.1%
 5. The accuracy obtained on LR (by a factor of 3) images is 89.75%
