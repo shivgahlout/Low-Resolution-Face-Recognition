@@ -7,7 +7,7 @@ The procedure for the experiments is as follows:
 
 2. We consider only those images that have at least 10 images. It gives use 159 classes. 
 
-3. We split these images into 85$\%$ train, 5$\%$ val and 15$\%$ test dataset. 
+3. We split these images into 85% train, 5% val and 15% test dataset. 
 
 4. After this we perform alignment of the images. 
 
